@@ -13,4 +13,7 @@
 -
 
 ## Features
-  
+
+### Username Validation:
+- Miust contain an underscore(_)
+- consist of 5 characters or less (<=5)
